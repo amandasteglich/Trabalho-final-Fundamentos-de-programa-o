@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ingrediente
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Ingrediente\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=nome\ medida\ quantidade
+comment1.target=Ingrediente(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getMedida()
+comment4.params=
+comment4.target=double\ getQuantidade()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=medida
+comment6.target=void\ setMedida(java.lang.String)
+comment7.params=quantidade
+comment7.target=void\ setQuantidade(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
